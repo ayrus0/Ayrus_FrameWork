@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="10" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="575299" started-at="2019-09-11T14:46:18 IST" finished-at="2019-09-11T14:55:53 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="575299" started-at="2019-09-11T14:46:18 IST" finished-at="2019-09-11T14:55:53 IST">
+      <class name="com.lexicata.quote.Quotes">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.lexicata.quote.Quotes@7c29daf3]" name="configBC" is-config="true" duration-ms="6658" started-at="2019-09-11T14:46:18 IST" finished-at="2019-09-11T14:46:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.lexicata.quote.Quotes@7c29daf3]" name="configBM" is-config="true" duration-ms="15773" started-at="2019-09-11T14:46:24 IST" finished-at="2019-09-11T14:46:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="ValidateAdjustmentEntereEqualsWith()[pri:0, instance:com.lexicata.quote.Quotes@7c29daf3]" name="ValidateAdjustmentEntereEqualsWith" duration-ms="74402" started-at="2019-09-11T14:46:40 IST" finished-at="2019-09-11T14:47:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateAdjustmentEntereEqualsWith -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.lexicata.quote.Quotes@7c29daf3]" name="configAM" is-config="true" duration-ms="5912" started-at="2019-09-11T14:47:55 IST" finished-at="2019-09-11T14:48:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.lexicata.quote.Quotes@7c29daf3]" name="configBM" is-config="true" duration-ms="4164" started-at="2019-09-11T14:48:00 IST" finished-at="2019-09-11T14:48:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="ValidateAssingedToEnterEqualsWith()[pri:0, instance:com.lexicata.quote.Quotes@7c29daf3]" name="ValidateAssingedToEnterEqualsWith" duration-ms="80288" started-at="2019-09-11T14:48:05 IST" finished-at="2019-09-11T14:49:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateAssingedToEnterEqualsWith -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.lexicata.quote.Quotes@7c29daf3]" name="configAM" is-config="true" duration-ms="1853" started-at="2019-09-11T14:49:25 IST" finished-at="2019-09-11T14:49:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.lexicata.quote.Quotes@7c29daf3]" name="configBM" is-config="true" duration-ms="3910" started-at="2019-09-11T14:49:27 IST" finished-at="2019-09-11T14:49:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="ValidateCurrencyEnterEqualsWith()[pri:0, instance:com.lexicata.quote.Quotes@7c29daf3]" name="ValidateCurrencyEnterEqualsWith" duration-ms="91287" started-at="2019-09-11T14:49:31 IST" finished-at="2019-09-11T14:51:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateCurrencyEnterEqualsWith -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.lexicata.quote.Quotes@7c29daf3]" name="configAM" is-config="true" duration-ms="2896" started-at="2019-09-11T14:51:02 IST" finished-at="2019-09-11T14:51:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.lexicata.quote.Quotes@7c29daf3]" name="configBM" is-config="true" duration-ms="4240" started-at="2019-09-11T14:51:05 IST" finished-at="2019-09-11T14:51:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="ValidateDiscountAmountEnterEqualsWith()[pri:0, instance:com.lexicata.quote.Quotes@7c29daf3]" name="ValidateDiscountAmountEnterEqualsWith" duration-ms="85192" started-at="2019-09-11T14:51:09 IST" finished-at="2019-09-11T14:52:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateDiscountAmountEnterEqualsWith -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.lexicata.quote.Quotes@7c29daf3]" name="configAM" is-config="true" duration-ms="7494" started-at="2019-09-11T14:52:34 IST" finished-at="2019-09-11T14:52:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.lexicata.quote.Quotes@7c29daf3]" name="configBM" is-config="true" duration-ms="4309" started-at="2019-09-11T14:52:42 IST" finished-at="2019-09-11T14:52:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="ValidateDiscountPercentEnterEqualsWith()[pri:0, instance:com.lexicata.quote.Quotes@7c29daf3]" name="ValidateDiscountPercentEnterEqualsWith" duration-ms="76962" started-at="2019-09-11T14:52:46 IST" finished-at="2019-09-11T14:54:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateDiscountPercentEnterEqualsWith -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.lexicata.quote.Quotes@7c29daf3]" name="configAM" is-config="true" duration-ms="6729" started-at="2019-09-11T14:54:03 IST" finished-at="2019-09-11T14:54:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.lexicata.quote.Quotes@7c29daf3]" name="configBM" is-config="true" duration-ms="4190" started-at="2019-09-11T14:54:10 IST" finished-at="2019-09-11T14:54:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="ValidateInventoryManagerEnterEqualsWith()[pri:0, instance:com.lexicata.quote.Quotes@7c29daf3]" name="ValidateInventoryManagerEnterEqualsWith" duration-ms="92925" started-at="2019-09-11T14:54:14 IST" finished-at="2019-09-11T14:55:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateInventoryManagerEnterEqualsWith -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.lexicata.quote.Quotes@7c29daf3]" name="configAM" is-config="true" duration-ms="5856" started-at="2019-09-11T14:55:47 IST" finished-at="2019-09-11T14:55:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.lexicata.quote.Quotes@7c29daf3]" name="configAC" is-config="true" duration-ms="167" started-at="2019-09-11T14:55:53 IST" finished-at="2019-09-11T14:55:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.lexicata.quote.Quotes -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
